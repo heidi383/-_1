@@ -10,7 +10,7 @@
 <img src="https://user-images.githubusercontent.com/87266522/144697862-c4f8196f-8776-4fd4-b78e-ab7699984f99.PNG"  width="400" height="200"/>
 
 <h6>3. 토이스토리 게임화면</h6>
-<img src="https://user-images.githubusercontent.com/87266522/144697869-4aa34286-6d9e-4f07-b065-b7e0d1f8afae.PNG"  width="400" height="200"/>
+<img src="https://user-images.githubusercontent.com/87266522/144708973-010c54d2-3983-474a-9b02-25803cc5e243.PNG"  width="400" height="200"/>
   <p>토이스토리 캐릭터 감자의 몸이 그림 속에 숨겨져 있다.</p>
   <p>모두 찾아서 클릭하면 감자가 완성된다.</p>
   
