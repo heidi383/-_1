@@ -4,20 +4,20 @@
 <h4> 2. 하늘에서 음식이 내려온다면 - 떨어지는 음식 받기 </h4>
 
 
-<p>1. 시작화면<p>
+<h6>1. 시작화면</h6>
 <img src="https://user-images.githubusercontent.com/87266522/144697855-491ba01f-b5a7-4f61-bb8a-d0b9579dcbd8.PNG"  width="400" height="200"/>
-<p>2. 토이스토리 게임설명<p>
+<h6>2. 토이스토리 게임설명</h6>
 <img src="https://user-images.githubusercontent.com/87266522/144697862-c4f8196f-8776-4fd4-b78e-ab7699984f99.PNG"  width="400" height="200"/>
 
-<p>3. 토이스토리 게임화면<p>
+<h6>3. 토이스토리 게임화면</h6>
 <img src="https://user-images.githubusercontent.com/87266522/144697869-4aa34286-6d9e-4f07-b065-b7e0d1f8afae.PNG"  width="400" height="200"/>
   <p>토이스토리 캐릭터 감자의 몸이 그림 속에 숨겨져 있다.</p>
   <p>모두 찾아서 클릭하면 감자가 완성된다.</p>
   
-<p>4. 하늘에서 음식이 내려온다면 게임설명<p>
+<h6>4. 하늘에서 음식이 내려온다면 게임설명</h6>
 <img src="https://user-images.githubusercontent.com/87266522/144697874-e7e3a6fc-cdb6-45eb-8daf-1896e0953f7b.PNG"  width="400" height="200"/>
 
-<p>5. 하늘에서 음식이 내려온다면 게임화면<p>
+<h6>5. 하늘에서 음식이 내려온다면 게임화면</h6>
 <img src="https://user-images.githubusercontent.com/87266522/144697877-f51c7953-1b96-4057-86b4-bc01a3abb0ff.PNG"  width="400" height="200"/>
   <p>하늘에서 햄버거 재료가 내려온다.</p>
   <p>키보드를 이용해서 캐릭터를 움직여서 음식을 받는다.</p>
