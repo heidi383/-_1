@@ -11,14 +11,14 @@
 
 <p>3. 토이스토리 게임화면<p>
 <img src="https://user-images.githubusercontent.com/87266522/144697869-4aa34286-6d9e-4f07-b065-b7e0d1f8afae.PNG"  width="400" height="200"/>
-  토이스토리 캐릭터 감자의 몸이 그림 속에 숨겨져 있다.
-  모두 찾아서 클릭하면 감자가 완성된다.
+  <p>토이스토리 캐릭터 감자의 몸이 그림 속에 숨겨져 있다.</p>
+  <p>모두 찾아서 클릭하면 감자가 완성된다.</p>
   
 <p>4. 하늘에서 음식이 내려온다면 게임설명<p>
 <img src="https://user-images.githubusercontent.com/87266522/144697874-e7e3a6fc-cdb6-45eb-8daf-1896e0953f7b.PNG"  width="400" height="200"/>
 
 <p>5. 하늘에서 음식이 내려온다면 게임화면<p>
 <img src="https://user-images.githubusercontent.com/87266522/144697877-f51c7953-1b96-4057-86b4-bc01a3abb0ff.PNG"  width="400" height="200"/>
-  하늘에서 햄버거 재료가 내려온다.
-  키보드를 이용해서 캐릭터를 움직여서 음식을 받는다.
-  음식을 받으면 오른쪽에 해당 음식 이름이 사라진다.
+  <p>하늘에서 햄버거 재료가 내려온다.</p>
+  <p>키보드를 이용해서 캐릭터를 움직여서 음식을 받는다.</p>
+  <p>음식을 받으면 오른쪽에 해당 음식 이름이 사라진다.</p>
